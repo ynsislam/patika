@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(143, 24, 24);
+    
+}
+
+#baslıkid{
+    text-align: center;
+    color:wheat ;
+    font-size: 40px;   
+
+}
+#slogan{
+    text-align: center;
+    color: wheat;
+    font-size: 25px;
+    
+}
+
+.menu{
+    text-transform: uppercase;
+    list-style:none ;
+    text-align: center;
+    
+}
+.menu li{
+    
+   
+
+    display:inline-block ;
+}
+
+.midfont{
+    font-size: 22px ;
+    text-align: center;
+}
+
+#urunlermıd{
+    text-align: center;
+   
+}
+
+.whiteclr{
+    color: green;
+    font-size: 20px;
+}
+
+#urun{
+    color: rgba(218, 129, 20, 0.993);
+    list-style-position:inside;
+    text-align: center;
+    font-weight: bold;
+}
+
+.photo1{
+    height: 300px; 
+    
+}
+.altbaslık{
+    font-size: 45px;
+}
