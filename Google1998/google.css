@@ -1,0 +1,42 @@
+.logo{
+    text-align: center;
+    display:block;
+    margin: auto;
+}
+.conteiner{
+    width: 40cm;
+    height: 80px;
+    background-color: rgb(235, 231, 231);
+    text-align: center;
+    margin-left: 5cm;
+}
+.block1{
+    background-color: rgb(56, 164, 197);
+    width: 15cm;
+    height: 80px;
+    margin-left: 5cm;
+    margin-top: -0.3cm;
+    text-align:center;
+    
+}
+.block2{
+    background-color: rgb(56, 164, 197);
+    width: 5cm;
+    height: 80px;
+    margin-right:25.2cm;
+    margin-top: -2.1cm;
+    text-align: center;
+    
+    float:right;
+}
+.block3{
+    background-color: rgb(56, 164, 197);
+    width: 745px;
+    height: 80px;
+    margin-left: 25.3cm;
+    margin-top: -2.5cm;
+    text-align: center;
+
+
+}
+
