@@ -1,0 +1,13 @@
+.pholder{
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    background-position: 40%;
+    background-size: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(https://cdn2.iconfinder.com/data/icons/font-awesome/1792/search-512.png);
+    background-repeat:no-repeat;
+    }
+.storyphoto{
+    border-radius: 50%; 
+}
